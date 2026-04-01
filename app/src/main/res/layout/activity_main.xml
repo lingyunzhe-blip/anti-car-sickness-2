@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:gravity="center" android:orientation="vertical" android:background="#000011">
+    <TextView android:text="🚗 防晕车稳定器" android:textSize="24sp" android:textColor="#ffffff"/>
+    <View android:layout_width="30dp" android:layout_height="30dp" android:layout_marginTop="40dp" android:background="@drawable/circle_center"/>
+    <TextView android:id="@+id/breathText" android:text="吸气…" android:textSize="22sp" android:textColor="#00eaff" android:layout_marginTop="30dp"/>
+</LinearLayout>
