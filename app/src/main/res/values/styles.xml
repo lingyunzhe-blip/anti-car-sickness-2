@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.AntiCarSickness" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#00eaff</item>
+        <item name="android:statusBarColor">#000011</item>
+    </style>
+</resources>
